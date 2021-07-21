@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/egortalko/Documents/Godot/My_first_game/My_Game_Bash.csproj": {}
+  },
+  "projects": {
+    "/home/egortalko/Documents/Godot/My_first_game/My_Game_Bash.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/egortalko/Documents/Godot/My_first_game/My_Game_Bash.csproj",
+        "projectName": "My_Game_Bash",
+        "projectPath": "/home/egortalko/Documents/Godot/My_first_game/My_Game_Bash.csproj",
+        "packagesPath": "/home/egortalko/.nuget/packages/",
+        "outputPath": "/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/egortalko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

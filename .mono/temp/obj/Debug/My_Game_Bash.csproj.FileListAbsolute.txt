@@ -1,0 +1,8 @@
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/bin/Debug/My_Game_Bash.dll
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/bin/Debug/My_Game_Bash.pdb
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.csproj.AssemblyReference.cache
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.AssemblyInfoInputs.cache
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.AssemblyInfo.cs
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.csproj.CoreCompileInputs.cache
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.dll
+/home/egortalko/Documents/Godot/My_first_game/.mono/temp/obj/Debug/My_Game_Bash.pdb
